@@ -29,7 +29,7 @@ Portable across different database systems
 Server, SQLite. 
 |
 # what are the different types of SQL commands?
-SQL Command Categories
+# SQL Command Categories
 DDL (Data Definition Language): CREATE, ALTER, DROP, TRUNCATE
 DML (Data Manipulation Language): INSERT, UPDATE, DELETE
 DQL (Data Query Language): SELECT
@@ -96,7 +96,18 @@ Used to remove existing records from a table.
 DQL (Data Query Language) is used to retrieve data from a database.
 # Common Commands:
 SELECT
+
 # SELECT
+
+<img width="186" height="22" alt="image" src="https://github.com/user-attachments/assets/d9f23aa2-0f81-4c5d-9a31-06502b2e00d1" />
+
+
+<img width="299" height="296" alt="image" src="https://github.com/user-attachments/assets/9415f96a-ba06-4286-9ff7-791db11db006" />
+
+
+
+
+
 
 
 
