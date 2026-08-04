@@ -2,7 +2,7 @@
 # what is sql
 SQL (Structured Query Language) is a standard language used to interact with relational databases. It lets you store, retrieve, update, and manage data efficiently.
 
-#Main Features of SQL:
+# Main Features of SQL:
 
 Easy to learn and use
 Data querying (SELECT)
@@ -15,7 +15,7 @@ Supports transaction management
 Fast and efficient
 Portable across different database systems
 
-#Difference Between DBMS and RDBMS
+# Difference Between DBMS and RDBMS
 | **DBMS (Database Management System)**                        | **RDBMS (Relational Database Management System)**                                                      |
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
 | Stores and manages data in a database.                       | Stores and manages data in **related tables** (rows and columns).                                      |
@@ -28,11 +28,18 @@ Portable across different database systems
 | Examples: dBase, FoxPro.                                     | Examples: MySQL, PostgreSQL, Oracle Database, Microsoft SQL 
 Server, SQLite. 
 |
-#what are the different types of SQL commands?
-DDL (Data Definition Language)
+# what are the different types of SQL commands?
+SQL Command Categories
+DDL (Data Definition Language): CREATE, ALTER, DROP, TRUNCATE
+DML (Data Manipulation Language): INSERT, UPDATE, DELETE
+DQL (Data Query Language): SELECT
+DCL (Data Control Language): GRANT, REVOKE
+TCL (Transaction Control Language): COMMIT, ROLLBACK, SAVEPOINT
+
+# DDL (Data Definition Language)
 Used to create and modify the structure of database objects such as tables.
 
-Common Commands:
+# Common Commands:
 
 CREATE – Creates a new database or table.
 ALTER – Modifies an existing table.
@@ -40,7 +47,7 @@ DROP – Deletes a table or database.
 TRUNCATE – Removes all rows from a table but keeps the table structure.
 RENAME – Renames a table or other database object.
 
-#create table
+# CREATES TABLES
 
 Creates a new database or table.
 
@@ -48,32 +55,28 @@ Creates a new database or table.
 
 <img width="176" height="18" alt="image" src="https://github.com/user-attachments/assets/ab88c359-724d-4f0c-9b9b-b6664f20f94b" />
 
-
-
-#drop table
+# DROP TABELS
 
 Deletes a table or database.
 
 <img width="167" height="32" alt="image" src="https://github.com/user-attachments/assets/f23620f5-fc0d-46d8-812c-5521d43bb394" />
 <img width="620" height="161" alt="image" src="https://github.com/user-attachments/assets/058a1028-85c9-4c22-bf48-b93a71d690ca" />
 
-
-#truncate
+# TRUNCATE
  Removes all rows from a table but keeps the table structure.
- 
+
 <img width="166" height="31" alt="image" src="https://github.com/user-attachments/assets/23c8d0d1-85d8-42ed-b4db-5db28eab362a" />
 
 <img width="647" height="176" alt="image" src="https://github.com/user-attachments/assets/3723b97f-3170-464a-8bdb-170db5b97776" />
 
-#DML (Data Manipulation Language)
-
+# DML (Data Manipulation Language)
 Used to insert, update, and delete data in tables.
-
-Common Commands:
+# Common Commands:
 
 INSERT
 UPDATE
 DELETE
+
 # INSERT
 INSERT – Used to add new records (rows) into a table.
 
@@ -88,6 +91,12 @@ Used to modify existing records in a table.
 Used to remove existing records from a table.
 
 <img width="622" height="183" alt="image" src="https://github.com/user-attachments/assets/4640210c-ecd3-46db-abef-f5d09eab6c85" />
+
+# DQL (Data Query Language);
+DQL (Data Query Language) is used to retrieve data from a database.
+# Common Commands:
+SELECT
+# SELECT
 
 
 
