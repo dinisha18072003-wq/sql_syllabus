@@ -175,6 +175,34 @@ Sorts the result in ascending (ASC) or descending (DESC) order.
 - 
 <img width="601" height="215" alt="image" src="https://github.com/user-attachments/assets/b5d0abc8-a6f3-4a65-96bc-26246e54c8d5" />
 
+# What is SQL JOIN?
+A SQL JOIN is a command used to combine data from two or more database tables based on a related column between them.
+In a relational database, data is usually stored in separate tables. A JOIN helps you retrieve connected information from those tables.
+# Common SQL JOIN Types
+
+INNER JOIN _ 	Only matching rows
+LEFT JOIN	 _ All left table rows + matching right rows
+RIGHT JOIN _	All right table rows + matching left rows
+
+# INNER JOIN 
+Only matching rows
+
+<img width="404" height="399" alt="image" src="https://github.com/user-attachments/assets/9a595c3f-5e42-4ab4-bdaf-efbb6b40ca6d" />
+
+# LEFT JOIN	 
+All left table rows + matching right rows
+
+<img width="444" height="398" alt="image" src="https://github.com/user-attachments/assets/01eeb228-305b-4282-b453-06d31e4f7296" />
+
+
+
+
+
+
+
+
+
+
 
 
 
