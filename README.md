@@ -194,6 +194,11 @@ All left table rows + matching right rows
 
 <img width="444" height="398" alt="image" src="https://github.com/user-attachments/assets/01eeb228-305b-4282-b453-06d31e4f7296" />
 
+# RIGHT JOIN 
+All right table rows + matching left rows
+
+<img width="468" height="408" alt="image" src="https://github.com/user-attachments/assets/f9259c44-c41e-4ca5-823f-c9528e9b2312" />
+
 
 
 
