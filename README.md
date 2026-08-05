@@ -130,6 +130,50 @@ SELECT
 
 <img width="299" height="296" alt="image" src="https://github.com/user-attachments/assets/9415f96a-ba06-4286-9ff7-791db11db006" />
 
+# DQL(DATE QUERY LANGUAGE)
+The main DQL command is SELECT, which is used to retrieve data from a database.
+# Explanation
+SELECT – Specifies the columns to retrieve.
+FROM – Specifies the table.
+WHERE – Filters rows based on a condition.
+GROUP BY – Groups rows with the same values.
+HAVING – Filters grouped data.
+ORDER BY – Sorts the result in ascending (ASC) or descending (DESC) order.
+
+# SELECT
+Specifies the columns to retrieve.
+
+<img width="364" height="289" alt="image" src="https://github.com/user-attachments/assets/6c6a5303-4ff8-4b04-8555-d7307199b6c2" />
+
+# FROM
+Specifies the table
+
+<img width="222" height="41" alt="image" src="https://github.com/user-attachments/assets/9e1af747-46fd-4db4-910a-188c075396cf" />
+
+# WHERE
+Filters rows based on a condition.
+
+<img width="671" height="245" alt="image" src="https://github.com/user-attachments/assets/2024a087-219b-42a5-bdc0-6d0d7ad75997" />
+
+# GROUP BY 
+Groups rows with the same values.
+
+<img width="643" height="262" alt="image" src="https://github.com/user-attachments/assets/32d58499-a119-41af-bebd-7f911e0b56bc" />
+
+# HAVING 
+Filters grouped data.
+
+<img width="662" height="197" alt="image" src="https://github.com/user-attachments/assets/aba058ef-f9c1-40f1-90ad-f5b119d73218" />
+
+# ORDER BY 
+Sorts the result in ascending (ASC) or descending (DESC) order.
+
+<img width="574" height="245" alt="image" src="https://github.com/user-attachments/assets/1a10c92a-f267-46b8-874a-1daa88d5f367" />
+
+
+
+
+
 
 
 
