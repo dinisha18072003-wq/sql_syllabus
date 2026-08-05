@@ -1,5 +1,31 @@
-# sql_syllabus
-# what is sql
+# SQL_SYLLABUS
+
+# what is DATEBASE?
+A database is an organized collection of data that is stored electronically and can be easily accessed, managed, and updated.
+ # You can use the database to:
+
+Search for a student by name.
+Update a student's grade.
+Add a new student.
+Delete a student's record.
+# Why databases are used
+
+# Databases help to:
+
+Store large amounts of information.
+Organize data efficiently.
+Retrieve data quickly.
+Keep data accurate and secure.
+Allow multiple users to access data at the same time.
+
+# Types of databases
+
+# Some common types include:
+
+Relational databases: Store data in tables with rows and columns (examples: MySQL, PostgreSQL, Oracle Database).
+NoSQL databases: Store data in formats such as documents, key-value pairs, or graphs (examples: MongoDB, Apache Cassandra).
+
+# what is SQL
 SQL (Structured Query Language) is a standard language used to interact with relational databases. It lets you store, retrieve, update, and manage data efficiently.
 
 # Main Features of SQL:
