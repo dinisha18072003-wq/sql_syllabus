@@ -139,7 +139,7 @@ WHERE – Filters rows based on a condition.
 GROUP BY – Groups rows with the same values.
 HAVING – Filters grouped data.
 ORDER BY – Sorts the result in ascending (ASC) or descending (DESC) order.
-
+LIMIT- limit rows returned.
 # SELECT
 Specifies the columns to retrieve.
 
@@ -170,6 +170,10 @@ Sorts the result in ascending (ASC) or descending (DESC) order.
 
 <img width="574" height="245" alt="image" src="https://github.com/user-attachments/assets/1a10c92a-f267-46b8-874a-1daa88d5f367" />
 
+# LIMIT
+- limit rows returned.
+- 
+<img width="601" height="215" alt="image" src="https://github.com/user-attachments/assets/b5d0abc8-a6f3-4a65-96bc-26246e54c8d5" />
 
 
 
