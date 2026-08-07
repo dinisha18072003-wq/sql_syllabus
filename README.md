@@ -156,9 +156,41 @@ Filters rows based on a condition.
 <img width="671" height="245" alt="image" src="https://github.com/user-attachments/assets/2024a087-219b-42a5-bdc0-6d0d7ad75997" />
 
 # GROUP BY 
-Groups rows with the same values.
+Groups rows with the same values
 
 <img width="643" height="262" alt="image" src="https://github.com/user-attachments/assets/32d58499-a119-41af-bebd-7f911e0b56bc" />
+
+# Common aggregate functions
+COUNT() Counts the number of rows.
+SUM() Calculates the total value.
+AVG()	Calculates the average value.
+MAX()	Returns the highest value.
+MIN()	Returns the lowest value.
+
+# COUNT()
+Counts the number of rows
+
+<img width="549" height="233" alt="image" src="https://github.com/user-attachments/assets/0783fa03-7136-415d-95db-e7e0b4174fd3" />
+
+# SUM() 
+Calculates the total value
+
+<img width="580" height="207" alt="image" src="https://github.com/user-attachments/assets/7035aada-b07e-42ba-9ba5-0b00424f6891" />
+
+# AVG()
+Calculates the average value
+
+<img width="574" height="216" alt="image" src="https://github.com/user-attachments/assets/5647e742-6051-41c5-9899-e156f9404069" />
+
+# MAX()
+Returns the highest value
+
+<img width="572" height="213" alt="image" src="https://github.com/user-attachments/assets/72c8c7f9-6da6-43d2-86fc-1fcbb6f41927" />
+
+# MIN()
+Returns the lowest value
+
+<img width="576" height="225" alt="image" src="https://github.com/user-attachments/assets/45f0bb11-b0bc-4b2b-b630-f2d904431e8c" />
 
 # HAVING 
 Filters grouped data.
