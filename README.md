@@ -231,6 +231,114 @@ All right table rows + matching left rows
 
 <img width="468" height="408" alt="image" src="https://github.com/user-attachments/assets/f9259c44-c41e-4ca5-823f-c9528e9b2312" />
 
+ # what is SQL logical operators?
+ SQL logical operators are keywords used to combine, modify, or reverse conditions in an SQL query. They are mainly used with the WHERE clause to filter data.
+
+# Main SQL Logical Operators
+AND – Both conditions must be true.
+OR – At least one condition must be true.
+NOT – Reverses a condition.
+
+# AND 
+Both conditions must be true.
+
+<img width="507" height="275" alt="image" src="https://github.com/user-attachments/assets/57eb9908-016f-4292-8a15-1ed1285dba24" />
+
+# OR 
+At least one condition must be true.
+
+<img width="516" height="269" alt="image" src="https://github.com/user-attachments/assets/e4808244-94fe-41dc-8c27-66f5c22c6f2e" />
+
+# NOT 
+Reverses a condition.
+
+<img width="424" height="242" alt="image" src="https://github.com/user-attachments/assets/a0e8bd40-62ed-4664-ab68-7fa00b8bcacd" />
+
+# what is SQL special operators
+SQL special operators are operators used to perform specific types of comparisons or searches in SQL. They make it easier to filter data.
+
+# Operator	Purpose
+BETWEEN	_ Checks a range
+IN	_ Checks values in a list
+LIKE _	Searches for a pattern
+IS NULL _	Checks for NULL values
+EXISTS _	Checks whether records exist
+
+# BETWEEN	
+Checks a range
+
+<img width="492" height="247" alt="image" src="https://github.com/user-attachments/assets/5e7d0b0d-738c-44e2-afbc-5513b3fdac0c" />
+
+# IN	
+Checks values in a list
+
+<img width="543" height="249" alt="image" src="https://github.com/user-attachments/assets/1145d196-ece3-49e3-a83c-ecf8c72b5862" />
+
+# LIKE 
+Searches for a pattern
+
+<img width="445" height="240" alt="image" src="https://github.com/user-attachments/assets/5ab2c637-2f2c-4aa9-a678-f9aecd66f901" />
+
+# IS NULL 
+Checks for NULL values
+
+<img width="545" height="106" alt="image" src="https://github.com/user-attachments/assets/5078b2f3-eac3-4fc9-a49c-60d783928093" />
+
+# EXISTS 
+Checks whether records exist
+
+
+
+
+# what is SQL comparison operators
+SQL comparison operators are operators used to compare two values or expressions. They are mainly used in the WHERE clause to filter records.
+
+# Common SQL Comparison Operators
+=	   Equal to	  
+<> or !=	 Not equal to	 
+>	    Greater than	marks 
+<	    Less than	marks 
+>=   	Greater than or equal to	marks 
+<=	   Less than or equal to
+
+# =	  
+Equal to	
+
+<img width="437" height="154" alt="image" src="https://github.com/user-attachments/assets/ae512531-7f86-421a-a56c-d73f42469df0" />
+
+# <> or !=	
+Not equal to	 
+
+<img width="425" height="247" alt="image" src="https://github.com/user-attachments/assets/a9d8298e-e2ac-418b-988e-3103500d1157" />
+
+<img width="425" height="252" alt="image" src="https://github.com/user-attachments/assets/4168579d-0375-42b2-b1db-e3798da6ff7d" />
+
+# >	 
+Greater than	
+
+<img width="440" height="236" alt="image" src="https://github.com/user-attachments/assets/d9ce7882-1527-4feb-9ec7-01051012b12b" />
+
+# <	  
+Less than	
+
+<img width="421" height="237" alt="image" src="https://github.com/user-attachments/assets/ed82d7ad-6f41-4880-b8fc-867a9712d72e" />
+
+# >=
+Greater than or equal to	
+
+<img width="438" height="244" alt="image" src="https://github.com/user-attachments/assets/e3f9cd0e-4b2b-474f-8aa5-25ebe86c2360" />
+
+# <=
+less than or equal to
+
+<img width="417" height="246" alt="image" src="https://github.com/user-attachments/assets/ecd6ef00-dcd4-44cf-bf11-f83d61dc4d0e" />
+
+
+
+
+
+ 
+
 
 
 
