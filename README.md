@@ -345,6 +345,8 @@ SUBSTRING() – extracts part of a string.
 TRIM() – removes unwanted spaces from the beginning and end.
 REPLACE() – replaces one part of a string with another.
 
+# CONCAT() 
+joins two or more strings.
 
 
  
