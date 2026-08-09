@@ -333,7 +333,17 @@ less than or equal to
 
 <img width="417" height="246" alt="image" src="https://github.com/user-attachments/assets/ecd6ef00-dcd4-44cf-bf11-f83d61dc4d0e" />
 
+# what is SQL string function
+SQL string functions are built-in functions used to work with text (string) data in a database. They can be used to change, search, combine, or find information in strings.
 
+# Main Types of SQL String Functions
+UPPER() – converts text to uppercase.
+LOWER() – converts text to lowercase.
+LENGTH() – finds the number of characters.
+CONCAT() – joins two or more strings.
+SUBSTRING() – extracts part of a string.
+TRIM() – removes unwanted spaces from the beginning and end.
+REPLACE() – replaces one part of a string with another.
 
 
 
