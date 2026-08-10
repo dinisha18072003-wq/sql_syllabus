@@ -348,10 +348,47 @@ REPLACE() – replaces one part of a string with another.
 # CONCAT() 
 joins two or more strings.
 
+<img width="395" height="131" alt="image" src="https://github.com/user-attachments/assets/14d29f3a-c6e1-40ab-8c88-135fde581ad2" />
 
- 
+# LENGTH() 
+finds the number of characters.
 
+<img width="341" height="129" alt="image" src="https://github.com/user-attachments/assets/b91b2b99-de51-44da-9bb9-05f4d4ed6f8e" />
 
+# UPPER() 
+converts text to uppercase.
+
+<img width="304" height="137" alt="image" src="https://github.com/user-attachments/assets/696d9c00-b7b1-45ac-ba4a-ddc050696838" />
+
+# LOWER() 
+converts text to lowercase.
+
+<img width="295" height="135" alt="image" src="https://github.com/user-attachments/assets/894c1415-53a8-4458-891b-1bdd475d2003" />
+
+# SUBSTRING() 
+extracts part of a string.
+
+<img width="396" height="159" alt="image" src="https://github.com/user-attachments/assets/79ccd812-4af0-4d43-b314-d51316253178" />
+
+# TRIM() 
+removes unwanted spaces from the beginning and end.
+
+<img width="348" height="153" alt="image" src="https://github.com/user-attachments/assets/7e23de2e-3362-434a-97b5-941efbe8004a" />
+
+# REPLACE() 
+replaces one part of a string with another.
+
+<img width="492" height="167" alt="image" src="https://github.com/user-attachments/assets/6e04e1c1-59ce-4a02-986f-50b4c05aa713" />
+
+# what is SQL Arithmetic operations?
+SQL arithmetic operations are mathematical calculations performed on numeric values in SQL queries. They are commonly used to calculate totals, differences, percentages, salaries, prices, etc.
+
+# Types of Arithmetic Operations in SQL
++     	Addition	
+-      Subtraction		
+*      Multiplication	
+/	     Division	
+%	     Modulus (remainder)
 
 
 
