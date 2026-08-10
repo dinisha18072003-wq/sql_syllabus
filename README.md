@@ -289,7 +289,6 @@ Checks whether records exist
 
 
 
-
 # what is SQL comparison operators
 SQL comparison operators are operators used to compare two values or expressions. They are mainly used in the WHERE clause to filter records.
 
@@ -387,12 +386,28 @@ SQL arithmetic operations are mathematical calculations performed on numeric val
 +     	Addition	
 -      Subtraction		
 *      Multiplication	
-/	     Division	
-%	     Modulus (remainder)
+/	      Division	
+%	      Modulus (remainder)
 
+# +     	Addition	
 
+<img width="583" height="253" alt="image" src="https://github.com/user-attachments/assets/4bfcff47-30ee-452c-8fa8-e8c09f188910" />
 
+# -      Subtraction	
 
+<img width="601" height="237" alt="image" src="https://github.com/user-attachments/assets/ea2616a3-eb60-45ac-bac3-f7967c970df7" />
+
+# *      Multiplication	
+
+<img width="593" height="258" alt="image" src="https://github.com/user-attachments/assets/1a4f36e2-270f-480c-8be3-363e63d7b951" />
+
+# /	      Division	
+
+<img width="589" height="251" alt="image" src="https://github.com/user-attachments/assets/1ce7a629-803c-4048-8944-1a2f80a0bf39" />
+
+# %	      Modulus (remainder)
+
+<img width="584" height="232" alt="image" src="https://github.com/user-attachments/assets/f4ba5933-ea53-4563-8590-5fd29227be9b" />
 
 
 
